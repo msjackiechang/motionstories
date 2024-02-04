@@ -20,7 +20,7 @@ author: Jeremy, Flo and Jackie
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "About us"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
